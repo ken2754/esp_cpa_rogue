@@ -1,0 +1,24 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Build & intermediate files
+build/
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.map
+*.hex
+*.out
+test_rogue
+
+# IDE / Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
